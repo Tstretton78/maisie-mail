@@ -39,6 +39,15 @@ with no signal.
 
 ## Using it
 
+**Load her photos in first.** Settings (the cog, top right) → "Her photo library" →
+Choose photos. Make an album of her in the Photos app, open it here, Select All.
+Each one is shrunk to about 250 KB and kept inside the app.
+
+Once that's done the app fills itself: open it on a day you haven't added
+anything and it puts up a page from her library on its own, preferring the same
+date in an earlier year. "One year ago today" and so on.
+
+
 **First run** asks her name and birthday. The birthday is what calculates the
 age badge on every page, forever. Stored on your phone only.
 
